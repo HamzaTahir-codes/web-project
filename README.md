@@ -1,2 +1,2 @@
 # web-project
-Semester Web Project
+Semester Web Project that includes personal portfolio
